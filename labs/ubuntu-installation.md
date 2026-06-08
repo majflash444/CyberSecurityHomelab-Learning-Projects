@@ -690,3 +690,57 @@ Phase: Linux Foundations (Phase 1)
 
 Next Milestone: First Ubuntu Login and Linux Command-Line Basics
 
+
+
+
+
+VM Name:
+
+Ubuntu-Server-Lab
+
+
+
+Host OS:
+
+Windows
+
+
+
+Guest OS:
+
+Ubuntu Server
+
+
+
+Configuration:
+
+\- 4 GB RAM
+
+\- 2 vCPUs
+
+\- 30 GB Dynamic Storage
+
+\- NAT Networking
+
+
+
+Purpose:
+
+Linux administration, networking fundamentals, cybersecurity labs, and homelab development.
+
+
+
+
+
+\## VM Creation Issue (Resolved)
+
+
+
+During VM creation, clicking "Finish" initially resulted in no visible VM being created. After retrying, the VirtualBox manager successfully registered the VM.
+
+
+
+\### Outcome
+
+The VM was successfully created and is now ready for Ubuntu Server installation.
+
