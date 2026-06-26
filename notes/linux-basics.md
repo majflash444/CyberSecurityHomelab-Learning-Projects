@@ -17,3 +17,16 @@ This section documents my Linux learning journey.
 - [ ] Processes
 - [ ] Networking
 - [ ] Shell Scripting
+
+## First 10 Commands
+
+ls : list diretor contents
+pwd : change directory "cd/path/to/directory
+cd : show current directory
+mkdir : creat a new directory "mkdir new_directory"
+mv : move or rename files 
+cp
+rm
+touch
+ln
+clear
