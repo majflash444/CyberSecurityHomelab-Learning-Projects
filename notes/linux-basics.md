@@ -25,8 +25,8 @@ pwd : change directory "cd/path/to/directory
 cd : show current directory
 mkdir : creat a new directory "mkdir new_directory"
 mv : move or rename files 
-cp
-rm
-touch
-ln
-clear
+cp : copy files or directories
+rm : remove files or directories
+touch : create an empty file
+ln : create shortuts to other files
+clear : clear a file or directory 
