@@ -1,0 +1,18 @@
+# Windows system files (DO NOT TRACK)
+AppData/
+NTUSER.DAT*
+*.log
+
+# VirtualBox files
+VirtualBox VMs/
+*.vdi
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings (optional)
+.vscode/
+
+# OS junk files
+.DS_Store
